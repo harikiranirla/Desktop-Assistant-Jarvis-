@@ -1,0 +1,6 @@
+# Desktop Assistant (Jarvis) – Python Dependencies
+# Install with:  pip install -r requirements.txt
+
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+pyaudio==0.2.14
